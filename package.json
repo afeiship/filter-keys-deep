@@ -1,6 +1,6 @@
 {
   "name": "@jswork/filter-keys-deep",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Filter out specified keys from an object (support deep structure).",
   "main": "./dist/index.cjs.js",
   "module": "./dist/index.esm.js",
@@ -31,5 +31,11 @@
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "keywords": [
+    "deep",
+    "filter",
+    "keys",
+    "obj"
+  ]
 }
