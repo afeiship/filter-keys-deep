@@ -4,6 +4,7 @@ describe('api.basic', () => {
   test('should filter keys', () => {
     const obj = {
       name: "Alice",
+      is_editing: true,
       details: {
         age: 30,
         hobbies: [{ name: "reading", type: "indoor" }],
