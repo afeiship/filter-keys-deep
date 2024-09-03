@@ -40,11 +40,6 @@ console.log(result);
 */
 ```
 
-## types
-```ts
-/// <reference types="@jswork/filter-keys-deep/global.d.ts" />
-```
-
 ## license
 Code released under [the MIT license](https://github.com/afeiship/filter-keys-deep/blob/master/LICENSE.txt).
 
